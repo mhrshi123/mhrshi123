@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me (hit me up to know more about me, i am actually fun)
 - 🎓 Computer Programming & Analysis student  
 - 💼 Actively seeking **Software Developer / Backend / Full-Stack Intern** roles  
 - 🛠️ I build tools, dashboards, full-stack apps & mobile apps  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects 
 
 ### 🔐 **[Time Capsule Web App](https://github.com/mhrshi123/Time-Capsule-Web-App)**
 A full-stack app to create capsules that unlock on a future date.  
@@ -60,7 +60,7 @@ ASP.NET MVC app with CRUD, database, and layered architecture.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Languages](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -85,7 +85,7 @@ ASP.NET MVC app with CRUD, database, and layered architecture.
 
 ---
 
-## 📈 GitHub Stats (Auto-Generated)
+## GitHub Stats (Auto-Generated)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mhrshi123&show_icons=true&theme=tokyonight"/>
