@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Maharshi</h1>
+<h1 align="center"> Hey, I'm Maharshi</h1>
 
 <p align="center">
   <strong>Software Development Student @ Conestoga College</strong><br/>
@@ -97,8 +97,8 @@ ASP.NET MVC app with CRUD, database, and layered architecture.
 ## 📫 Connect With Me
 - 🌐 Portfolio: **https://maharshi-portfolio.vercel.app**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/mhrshi123/**  
-- 📧 Email: **mhrshii27@gmail.com**
+- 📧 Email: **Mpandya0553@conestogac.on.ca**
 
 ---
 
-<p align="center">✨ Thanks for visiting — always building, always learning. ✨</p>
+<p align="center">Thanks for visiting, fellow humans</p>
