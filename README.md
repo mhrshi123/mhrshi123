@@ -50,7 +50,7 @@ Flutter mobile app built with SQLite + dynamic UI.
 
 ---
 
-### 🏫 **[Course Manager MVC](https://github.com/mhrshi123/PROG8170-Assessment-3)**
+### 🏫 **[Course Manager](https://github.com/mhrshi123/PROG8170-Assessment-3)**
 ASP.NET MVC app with CRUD, database, and layered architecture.  
 **Tech:** C#, .NET MVC, SQL  
 - Course & student management  
